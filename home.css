@@ -1,0 +1,75 @@
+/* Corps de la page */
+body {
+    background-color: #f8f4e3; /* Nude */
+    color: #5a4033; /* Wine */
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* En-tête */
+  header {
+    text-align: center;
+    background-color: #dac4b8; /* Pink vintage */
+    padding: 18px;
+  }
+  
+  header h1 {
+    font-size: 2.7em;
+    color: #356859; /* Green vintage */
+    margin-bottom: 10px;
+  }
+  
+  
+  
+  /* Contenu principal */
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main p {
+    font-style: italic;
+    color: #5a4033; /* Wine */
+    font-size: 1.5em;
+    margin-bottom: 30px;
+  }
+  
+  /* Navigation */
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    font-size: 1.6em;
+    color: #356859; /* Green vintage */
+    border: 1px solid #5a4033; /* Wine */
+    padding: 5px 10px;
+    border-radius: 1px;
+    background-color: #dac4b8; /* Pink */
+  }
+  
+  nav ul li a:hover {
+    background-color: #356859; /* Green hover */
+    color: #f8f4e3; /* Nude */
+  }
+  
+  /* Pied de page */
+  footer {
+    background-color: #dac4b8; /* Rose vintage */
+    text-align: center;
+    padding: 8px;
+  }
+  
+  footer p {
+    color: #5a4033; /* Wine */
+    font-size: 1em;
+  }
+  
